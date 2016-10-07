@@ -25,7 +25,7 @@ define('DIR_CATALOG', 'C:/OpenServer/OpenServer/domains/shop/catalog/');
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'opencart2');
-define('DB_PASSWORD', 's10317823');
+define('DB_PASSWORD', 'password');
 define('DB_DATABASE', 'opencart');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
